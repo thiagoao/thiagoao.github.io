@@ -322,3 +322,8 @@ footer {
     color:#444;
   }
 }
+
+p.description {
+  color:#444;
+  text-align:justify; 
+}
